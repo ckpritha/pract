@@ -6,6 +6,7 @@ public class layout {
 		// TODO Auto-generated method stub
 		System.out.println("connecting to github");
 		System.out.println("connecting github to jenkins server");
+		System.out.println("success");
 	}
 
 }
